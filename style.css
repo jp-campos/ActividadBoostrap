@@ -1,0 +1,44 @@
+
+
+.punto1-col{
+    background-color: rgb(250, 250, 250);
+}
+
+.banner-footer{
+    background-color: #5b493c;
+    color: white;
+    height:10vh;    
+}
+
+.contenido{
+    height: 80vh;
+}
+
+.contenido-main{
+    height: 100%;
+}
+
+.left-menu{
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+
+}
+
+.top-menu{
+    background-color: rosybrown;
+    width: 100%;
+
+}
+
+.main-ab{
+    background-color: whitesmoke;
+}
+
+.foto-par{
+    background-color: cadetblue;
+}
+
+.foto-impar{
+    background-color: palevioletred;
+}
